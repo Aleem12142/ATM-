@@ -1,0 +1,21 @@
+{
+  "name": "alm12_atm",
+  "version": "2.0.1",
+  "description": "This is a cli based atm machine softwear",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "alm12_atm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleem",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
